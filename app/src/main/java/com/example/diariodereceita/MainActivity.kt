@@ -87,7 +87,7 @@ fun appDiarioDeReceita() {
 
         }
         if(!cadastrar)
-        Text(text = "Cadastrar conta",
+        Text(text = "Cadastrar conta ",
             modifier = Modifier.clickable {cadastrar=!cadastrar  })
         Spacer(modifier = Modifier.size(20.dp))
 
