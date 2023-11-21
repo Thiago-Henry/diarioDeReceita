@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">diarioDeReceita</string>
+    <string name="entrar">Entrar</string>
+    <string name="senha">Senha</string>
+    <string name="login">Login</string>
+    <string name="confirmarSenha">confirmar Senha</string>
+    <string name="Nome">Nome</string>
+
+</resources>
